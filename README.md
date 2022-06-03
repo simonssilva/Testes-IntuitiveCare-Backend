@@ -1,4 +1,5 @@
 # Testes-IntuitiveCare-Backend
+### Database nomeada como 'teste_3'
 ## Teste 3 - Banco de Dados
 - Tarefas de Preparação (podem ser feitas manualmente):
   - Baixar os arquivos dos últimos 2 anos no repositório público: http://ftp.dadosabertos.ans.gov.br/FTP/PDA/demonstracoes_contabeis/
