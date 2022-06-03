@@ -1,6 +1,6 @@
 # Testes-IntuitiveCare-Backend
 - Database nomeada como 'teste_3'
-- Apenas o scrip pôde ser inserido aqui no Git.
+- Apenas o script pôde ser inserido aqui no Git.
 - Arquivos '.csv' estão na mesma pasta do database.
 ## Teste 3 - Banco de Dados
 - Tarefas de Preparação (podem ser feitas manualmente):
