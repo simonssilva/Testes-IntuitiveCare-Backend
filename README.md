@@ -1,5 +1,7 @@
 # Testes-IntuitiveCare-Backend
-### Database nomeada como 'teste_3'
+- Database nomeada como 'teste_3'
+- Apenas o scrip pôde ser inserido aqui no Git.
+- Arquivos '.csv' estão na mesma pasta do database.
 ## Teste 3 - Banco de Dados
 - Tarefas de Preparação (podem ser feitas manualmente):
   - Baixar os arquivos dos últimos 2 anos no repositório público: http://ftp.dadosabertos.ans.gov.br/FTP/PDA/demonstracoes_contabeis/
