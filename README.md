@@ -1,1 +1,0 @@
-# Testes-IntuitiveCare-Backend
