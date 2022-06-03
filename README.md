@@ -8,6 +8,6 @@
 ## Teste 2 - Transformação de Dados
 - Todas as tarefas deste teste devem ser executadas em código nas linguagens Python ou Java
 - Tarefas de código:
--- Extrair do pdf do anexo I do teste 1 acima os dados da tabela Rol de Procedimentos e Eventos em Saúde (todas as páginas);
--- Salvar dados em uma tabela estruturada, em csv;
--- Zipar o csv num arquivo "Teste_{seu_nome}.zip".
+- Extrair do pdf do anexo I do teste 1 acima os dados da tabela Rol de Procedimentos e Eventos em Saúde (todas as páginas);
+- Salvar dados em uma tabela estruturada, em csv;
+- Zipar o csv num arquivo "Teste_{seu_nome}.zip".
